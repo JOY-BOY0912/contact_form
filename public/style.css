@@ -1,0 +1,92 @@
+
+
+#conc p {
+    color: black;
+  }
+  #email {
+    height: 80vh;
+    margin-top: 50px;
+    border: 2px solid skyblue;
+    display: flex;
+    margin-left: 150px;
+    margin-right: 150px;
+  }
+  #conc {
+    border: 2px solid black;
+    height: 80vh;
+    width: 30%;
+    background-color: skyblue;
+    border: none;
+  }
+  #conc2 {
+    border: 2px solid black;
+    height: 80vh;
+    width: 70%;
+    color: black;
+    border: none;
+  }
+  #conc p {
+    font-size: 25px;
+    margin-left: 25%;
+    color: rgb(255, 255, 255);
+    font: bolder;
+  }
+  #conc img {
+    margin-top: 55px;
+    margin-left: 10px;
+  }
+  #us,
+  #name,
+  #user,
+  #message,
+  #bin3 {
+    color: black;
+    border: none;
+  }
+  #name,
+  #user,
+  #message {
+    border: 2px solid rgba(242, 239, 239, 0.882);
+    background-color: rgba(242, 239, 239, 0.882);
+  }
+  #us {
+    font-size: 40px;
+    margin-left: 30%;
+    margin-top: 55px;
+  }
+  #name {
+    height: 50px;
+    width: 40pc;
+    color: black;
+    font-size: 15px;
+    margin-left: 105px;
+    margin-top: 15px;
+  }
+  #user {
+    height: 50px;
+    width: 40pc;
+    color: black;
+    font-size: 15px;
+    margin-left: 105px;
+    margin-top: 30px;
+  }
+  #message {
+    height: 200px;
+    width: 40pc;
+    color: black;
+    font-size: 25px;
+    margin-left: 105px;
+    margin-top: 30px;
+    text-align: center;
+  }
+  #bin3 {
+    margin-left: 350px;
+    margin-top: 20px;
+    width: 135px;
+    height: 40px;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(24, 180, 241);
+    border: none;
+  }
+  
